@@ -2,3 +2,10 @@
  interpreting linear algebra and mathematics of attention heads, improving performance by 15%.
  • Analyzed emotional themes in music using Hugging face Transformer based Large Language Models like BERT,
  RoBERTa, GPT-2, XLNet and Variational Auto-encoders to provide technique vital to revive depleting genres
+
+Performed the following tasks:
+1. Language Modeling- Sentiment Analysis of themes in music
+2. Text generation- Lyric Generation using Prompts
+3. Application- Built a Music Recommendation system on top of Pinecone, a vector DB
+4. Topic Modeling
+
